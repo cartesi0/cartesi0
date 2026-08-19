@@ -1,52 +1,52 @@
 # Hi, I'm Consolato Malara 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Consolato_Malara-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/consolatomalara/)
-[![Infrastructure](https://img.shields.io/badge/Focus-Infrastructure_%26_Cloud-1f6feb)](#)
+[![Learning Path](https://img.shields.io/badge/Learning-Infrastructure_%26_Cloud-1f6feb)](#)
 [![Linux](https://img.shields.io/badge/Linux-Hands--on-FCC624?logo=linux&logoColor=black)](#)
-[![Proxmox](https://img.shields.io/badge/Proxmox-HA_Homelab-E57000?logo=proxmox&logoColor=white)](https://github.com/cartesi0/proxmox-ha-homelab)
+[![Proxmox](https://img.shields.io/badge/Proxmox-Homelab-E57000?logo=proxmox&logoColor=white)](https://github.com/cartesi0/proxmox-ha-homelab)
 
-I am building a hands-on path toward **Infrastructure, Cloud and Systems Engineering**, with a strong focus on practical labs, troubleshooting and documented projects.
+I am developing my skills toward **Infrastructure, Cloud and Systems Engineering** through hands-on labs, troubleshooting and documented projects.
 
-My current work is centered on Linux administration, virtualization, networking, High Availability, monitoring and Windows infrastructure.
+I am not presenting myself as a senior engineer. This profile is a learning portfolio that shows what I have actually configured, tested and understood in my homelab.
 
-## Current focus
+## Current learning focus
 
 - Linux systems administration
 - Proxmox VE clustering and High Availability
-- Networking and secure remote access
+- Networking and remote access
 - WireGuard VPN
 - DNS and Pi-hole
 - Zabbix monitoring
 - pfSense firewall / segmentation labs
 - Windows Server and Active Directory
-- Infrastructure automation
+- Infrastructure automation fundamentals
 
 ## Featured project
 
 ### [Proxmox VE High Availability Homelab](https://github.com/cartesi0/proxmox-ha-homelab)
 
-A real three-node Proxmox VE homelab with:
+A three-node Proxmox VE homelab used to practice and document:
 
-- 3-node Proxmox cluster
-- Corosync and quorum validation
+- Proxmox clustering
+- Corosync and quorum checks
 - TrueNAS shared NFS storage
-- Live migration
+- VM migration and live migration
 - HA failover testing
-- Real sanitized cluster evidence
+- Sanitized command-output validation
 - WireGuard remote access
 - Pi-hole DNS filtering
 - Zabbix monitoring
-- pfSense networking lab
+- pfSense networking experiments
 - n8n and Telegram automation workloads
-- Windows Server lab with Active Directory as the next major milestone
+- Windows Server, with Active Directory as the next major project
 
-The repository includes architecture diagrams, troubleshooting notes, real command output and validation evidence.
+The repository includes architecture diagrams, troubleshooting notes and real command output captured from the lab.
 
-## Homelab services
+## Homelab technologies I am practicing
 
 | Area | Technologies / projects |
 |---|---|
-| Virtualization | Proxmox VE, VM/LXC, clustering, HA |
+| Virtualization | Proxmox VE, VMs, LXC, clustering, HA |
 | Linux | Debian/Ubuntu, systemd, journalctl, SSH |
 | Networking | Routing, DNS, WireGuard, pfSense |
 | Monitoring | Zabbix |
@@ -67,9 +67,11 @@ The repository includes architecture diagrams, troubleshooting notes, real comma
 - Backup and restore scenarios
 - Additional network segmentation and firewall testing
 
-## How I work
+## Learning and documentation approach
 
-I use my homelab to reproduce infrastructure scenarios instead of studying only from theory. I document both successful configurations and the problems encountered during testing, including failure scenarios and troubleshooting decisions.
+I use the homelab to reproduce infrastructure scenarios instead of studying only from theory. I try to document both successful configurations and the problems I encounter during testing.
+
+I also use AI tools as a **study and documentation assistant**. AI helps me organize notes, improve technical writing and review explanations, but the lab configurations, tests and command outputs shown in my projects come from my own environment. I keep the material only when I can explain what it means and reproduce the relevant steps.
 
 ## Connect with me
 
@@ -78,4 +80,4 @@ I use my homelab to reproduce infrastructure scenarios instead of studying only 
 
 ---
 
-> This profile is a work in progress and will evolve together with my infrastructure and cloud projects.
+> This profile is a work in progress and will evolve together with my learning path and hands-on projects.
