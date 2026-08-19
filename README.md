@@ -44,6 +44,8 @@ A three-node Proxmox VE homelab used to practice and document:
 
 The repository includes architecture diagrams, troubleshooting notes and sanitized command output captured from the lab.
 
+**Languages:** [English version](https://github.com/cartesi0/proxmox-ha-homelab) · [Versione italiana](https://github.com/cartesi0/proxmox-ha-homelab-ita)
+
 ## Homelab and cloud technologies I am practicing
 
 | Area | Technologies / projects |
@@ -84,7 +86,8 @@ I also use AI tools as a **study and documentation assistant**. AI helps me orga
 ## Connect with me
 
 - LinkedIn: [Consolato Malara](https://www.linkedin.com/in/consolatomalara/)
-- GitHub project: [proxmox-ha-homelab](https://github.com/cartesi0/proxmox-ha-homelab)
+- English project: [proxmox-ha-homelab](https://github.com/cartesi0/proxmox-ha-homelab)
+- Italian project: [proxmox-ha-homelab-ita](https://github.com/cartesi0/proxmox-ha-homelab-ita)
 
 ---
 
