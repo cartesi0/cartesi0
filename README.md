@@ -7,7 +7,7 @@
 
 I am developing my skills toward **Infrastructure, Cloud and Systems Engineering** through hands-on labs, troubleshooting and documented projects.
 
-I am not presenting myself as a senior engineer. This profile is a learning portfolio that shows what I have actually configured, tested and understood in my homelab.
+This profile is a learning portfolio focused on the technologies and scenarios I am currently practicing in my homelab.
 
 ## Current learning focus
 
